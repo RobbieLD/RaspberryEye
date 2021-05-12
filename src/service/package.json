@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "firebase-admin": "^7.0.0",
-    "grpc": "^1.18.0",
+    "grpc": "^1.24.9",
     "onoff": "^3.2.2"
   }
 }
